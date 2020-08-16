@@ -22,4 +22,6 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
 - **Y:** client's behavior; Y=0 then not default, Y=1 then default"
 
 ### Loan Approval Prediction Model in Python
-Credit One Informal Report can be found [here](https://github.com/liloamgo/CreditOne/blob/master/Credit%20One_%20Loan%20Approval%20Prediction%20Model%20in%20Python.pptx).
+- Informal Report can be found [here](https://github.com/liloamgo/CreditOne/blob/master/Credit%20One_%20Loan%20Approval%20Prediction%20Model%20in%20Python.pptx).
+- Data Extract copy is located [here](https://github.com/liloamgo/CreditOne/blob/master/CreditOne_Data_Extract.csv).
+- Jupyter Notebook is located [here](https://github.com/liloamgo/CreditOne/blob/master/CreditOne-LoadandExamine.ipynb).
