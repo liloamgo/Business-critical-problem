@@ -21,5 +21,5 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
 - **X18-X23:** Amount of previous payment (NT dollar). X18 = amount paid in September, 2005; X19 = amount paid in August, 2005; . . .;X23 = amount paid in April, 2005.
 - **Y:** client's behavior; Y=0 then not default, Y=1 then default"
 
-# Credit One: Loan Approval Prediction Model in Python
+### Loan Approval Prediction Model in Python
 Credit One Informal Report can be found [here](https://github.com/liloamgo/CreditOne/blob/master/Credit%20One_%20Loan%20Approval%20Prediction%20Model%20in%20Python.pptx).
