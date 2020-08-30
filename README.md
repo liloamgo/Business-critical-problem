@@ -45,7 +45,7 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
     * **PAY_AMT4** (X21) = amount paid in June, 2005;
     * **PAY_AMT5** (X22) = amount paid in May, 2005;
     * **PAY_AMT6** (X23) = amount paid in April, 2005.
-- **Y = PYMT_STS:** Client's behavior; Y=0 then not default, Y=1 then default"
+- **Y = DEFAULT_STS:** Client's behavior; Y=0 then not default, Y=1 then default"
     * **What Is Default?** Default is the failure to repay a debt including interest or principal on a loan or security. A default can occur when a borrower is unable to make timely payments, misses payments, or avoids or stops making payments
 
 ### Loan Approval Prediction Model in Python
