@@ -40,11 +40,11 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
     * **BILL_AMT6** (X17) = amount of bill statement in April, 2005.
 - **X18-X23 = PAY_AMT1-PAY_AMT6:** Amount of previous payment (NT dollar). We tracked the previous payment records (from April to September, 2005) as follows:
     * **PAY_AMT1** (X18) = amount paid in September, 2005; 
-    * **PAY_AMT1** (X19) = amount paid in August, 2005;
-    * **PAY_AMT1** (X20) = amount paid in August, 2005;
-    * **PAY_AMT1** (X21) = amount paid in August, 2005;
-    * **PAY_AMT1** (X22) = amount paid in August, 2005;
-    * **PAY_AMT1** (X23) = amount paid in April, 2005.
+    * **PAY_AMT2** (X19) = amount paid in August, 2005;
+    * **PAY_AMT3** (X20) = amount paid in July, 2005;
+    * **PAY_AMT4** (X21) = amount paid in June, 2005;
+    * **PAY_AMT5** (X22) = amount paid in May, 2005;
+    * **PAY_AMT6** (X23) = amount paid in April, 2005.
 - **Y = PYMT_STS:** Client's behavior; Y=0 then not default, Y=1 then default"
     * **What Is Default?** Default is the failure to repay a debt including interest or principal on a loan or security. A default can occur when a borrower is unable to make timely payments, misses payments, or avoids or stops making payments
 
