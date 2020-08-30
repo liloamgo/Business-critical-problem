@@ -12,7 +12,7 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
 - **X4 = MARRIAGE**: Customer's marital status (1 = married; 2 = single; 3 = divorce; 0=others).
 - **X5 = AGE**: Age (year).
 - **X6-X11 = PAY_0-PAY_6**: History of past payment. We tracked the past monthly payment records (from April to September, 2005) as follows: X6/PAY_0 = the repayment status in September, 2005; X7/PAY_2= the repayment status in August, 2005; . . .;X11/PAY_6 = the repayment status in April, 2005.  **The measurement scale for the repayment status is:** **-2:** No consumption; **-1:** Paid in full; **0:** The use of revolving credit; **1=** payment delay for one month; **2=** payment delay for two months; . . .; **8=** payment delay for eight months; **9=** payment delay for nine months and above.
-- **X12-X17 = BILL_AMT1-BILL_AMT5:** Amount of bill statement (NT dollar). X12 = amount of bill statement in September, 2005; X13 = amount of bill statement in August, 2005; . . .; X17 = amount of bill statement in April, 2005.
+- **X12-X17 = BILL_AMT1-BILL_AMT6:** Amount of bill statement (NT dollar). X12/BILL_AMT1 = amount of bill statement in September, 2005; X13/BILL_AMT1 = amount of bill statement in August, 2005; . . .; X17/BILL_AMT6 = amount of bill statement in April, 2005.
 - **X18-X23 = PAY_AMT1-PAY_AMT6:** Amount of previous payment (NT dollar). X18 = amount paid in September, 2005; X19 = amount paid in August, 2005; . . .;X23 = amount paid in April, 2005.
 - **Y = DEFAULT_PYMT:** Client's behavior; Y=0 then not default, Y=1 then default"
 
