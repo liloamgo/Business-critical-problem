@@ -1,4 +1,4 @@
-# CreditOne
+# Data Science with Python
 Define a Data Science Process
 
 **Data Set Information:**
