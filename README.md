@@ -55,3 +55,7 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
 
 ### Working with Credit One Data
 - Lessons learned can be found [here](https://github.com/liloamgo/CreditOne/blob/master/Working%20with%20Credit%20One%20Data%20(Lessons%20Learned).docx)
+- Jupyter Notebook is located [here](https://github.com/liloamgo/CreditOne/blob/master/C2T2-EDA.zip)
+- Data Extract copy is located [here](https://github.com/liloamgo/CreditOne/blob/master/df2.csv)
+- Jupyter Notebook get_dummies() sample is located [here](https://github.com/liloamgo/CreditOne/blob/master/C2T2-get_dummie.zip)
+- Data Extract for get_dummies() sample is located [here](https://github.com/liloamgo/CreditOne/blob/master/gd2.csv)
